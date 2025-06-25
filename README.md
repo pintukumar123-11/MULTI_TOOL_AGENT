@@ -39,3 +39,4 @@ This is an AI agent that uses a weather API.
     ```bash
     python agent.py # Or your specific command to run the agent
     ```
+![image](https://github.com/user-attachments/assets/95cd3bd9-cf67-4434-a22f-e61d8ea9cd48)
